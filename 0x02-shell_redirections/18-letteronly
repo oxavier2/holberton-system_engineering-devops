@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^oO' /etc/ssh/sshd_config
+grep -i '^oO' /etc/ssh/sshd_config
